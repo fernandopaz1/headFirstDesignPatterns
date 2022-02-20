@@ -35,3 +35,10 @@ ventaja es que se puede agregar y quitar comportamientos a un objeto de forma
 dinámica.
 
 </details>
+
+<details>
+  <summary>  Favorecer composición sobre herencia </summary>
+  
+ Crear sistemas usando composición nos da mas flexibilidad. No solo nos deja encapsular una familia de algoritmos en su propio conjunto de clases sino que también nos deja cambiar el comportamiento en tiempo de ejecución.
+
+</details>
